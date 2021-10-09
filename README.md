@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRIYANKA SINGH</h1>
-<h3 align="center">An AR Developer interested in making a mark for the betterment of society with the skills I have acquired .</h3>
+<h3 align="center">A technological enthusiast with keen interest in AR and Web Development .</h3>
 
 - 💬 Ask me about **AUGMENTED REALITY**
 
